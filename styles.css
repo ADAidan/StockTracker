@@ -1,0 +1,30 @@
+body {
+    background-color: #28f5c6;
+}
+
+.stock-chart-container {
+    width: 90%;
+    height: 85%;
+    background-color: #FFF;
+}
+
+#stock-chart {
+    width: 100%;
+    height: 90%;
+}
+
+#stock-chart-view {
+    display: none;
+}
+
+.search-bar {
+    width: 50%;
+    height: 50px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.search-button {
+    height: 50px;
+    width: 100px;
+}
